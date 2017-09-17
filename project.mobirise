@@ -23,7 +23,7 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 45,
     "versionPublish": "4.3.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -159,7 +159,7 @@
             "overlayOpacity": 0.5
           },
           "title": "KAMA SUSHI",
-          "text": "<p><span style=\"font-size: 1.07rem;\">Den nyöppnade restaurangen på Storgatan i hjärtat av Kalmar har en asiatisk inriktning. Så det erbjuds väl valda maträtter från exempelvis det vietnamesiska till det Japanska köket. Eller varför inte dricka asiatiska teer eller väl valda viner eller öl från hela det gastronomiska breda och rika utbudet. Det är även möjligt att hämta maten för att äta den hemma om du vill det om kunden så önskar det.</span><br></p>",
+          "text": "<p><span style=\"font-size: 1.07rem;\">Den nyöppnade restaurangen på Storgatan i hjärtat av Kalmar har en asiatisk inriktning. Så det erbjuds väl valda maträtter från exempelvis det vietnamesiska till det Japanska köket. Eller varför inte dricka asiatiska teer eller väl valda viner eller öl från hela det gastronomiska breda och rika utbudet. Det är även möjligt att hämta mat för att äta den hemma.</span><br></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -315,6 +315,179 @@
           ],
           "_name": "content6",
           "_anchor": "content6-z"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc8843-2000x1334.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Väl valda viner från hela det gastronomiskt breda utbudet.&nbsp;",
+          "text": "Kama Sushi Storgatan",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Gå till bokning</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-13"
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>\n</b></p><p><b><br></b><b style=\"font-size: 1.07rem;\"><i>Rose&nbsp;</i></b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Domaine Lafage, Miraﬂors Rosé 2016 \n</b></p><p><span style=\"font-size: 1.07rem;\">Flaska 510:-</span><br></p><p>Cotes du Roussillon, Frankrike\n</p><p>Ung, pigg, fruktig och örtig doft av hallon, jordgubbar, röda vinbär och lite citrus. Smaken är lätt och frisk med en fräsch aromatik och läcker eftersmak.\n</p><p><b>\n</b></p><p><b><i><br></i></b></p><p><b><i>Mousserande och Champagne</i></b></p><p><b><i><br></i></b></p><p><b><i>\n</i></b></p><p><b>\n</b></p><p><b>Bodegas Sojosa, Nitus Cava Brut Reserve \n</b></p><p>Flaska  320:- \n</p><p>Penèdes Spanien\n</p><p>Doften är ren och fruktig med inslag av citrus och mineral. Smaken är torr och fruktig med krämig mousse och inslag av citrusfrukter, äpple och bröd. \n</p><p><b>\n</b></p><p><b><br></b></p><p><b>UPR Champagne Le Mesnil Grand Cru Blanc de Blancs\n</b></p><p>Flaska 990:-\n</p><p>Champagne, Frankrike \n</p><p>Doft av rostat bröd, citrus och mjölkchoklad. Lätt till medelfyllig mycket frisk smak av citrus, smör, rostat bröd, mjölkchoklad och lite svamp. Lång fräsch avslutning.</p><p><br></p><p> \n</p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b><i>Alkohol fri</i> </b></p><p> Hwila                                                                                         28:- </p><p><br></p><p>  Läsk                                                                                          28:- </p><p><br></p><p>  Lättöl, ( alkohol fri)                                                                       28 :-</p><p><br></p><p>  Mjölk                                                                                          25:- </p><p><br></p><p>  Alkohol fri vin                                                                     52:-/glas<b>&nbsp;</b></p>",
+          "text2": "<p><b><br></b></p><p><b><i>Kaffe drink</i></b></p><p><span style=\"font-size: 1.07rem;\">Irish coffee </span><b style=\"font-size: 1.07rem;\">&nbsp;&nbsp;</b><span style=\"font-size: 1.07rem;\">105:-</span><br></p><p><b>\n</b></p><p><b><br></b></p><p><b><i>Whisky</i></b></p><p>The Deveron 12 år &nbsp;<b>&nbsp;</b><span style=\"font-size: 1.07rem;\">21:-/cl</span></p><p><b><br></b></p><p>Laphroaig 10år &nbsp;<span style=\"font-size: 1.07rem;\">25:-/cl</span></p><p><br></p><p>Nikka &nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">33:-/ cl</span></p><p><br></p><p> \n</p><p><b><i>Cognac</i></b></p><p><b> </b></p><p>Bache Gabrielsen &nbsp; &nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">20:-/cl </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">   Remy Martin VSOP &nbsp; 35:-/cl&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b><i>Öl</i></b> </span></p><p><span style=\"font-size: 1.07rem;\">  Brygmästaren, 50cl                                                                  67.- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Ängöl, 50cl                                                                                85.- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Ängöl, 33cl                                                                                78.- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Singha, 33cl                                                                              50:- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Asahi, 33cl                                                                                50:- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Cider, 33cl                                                                                 48:-&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b><i>Kaffe och Te</i></b> </span></p><p><span style=\"font-size: 1.07rem;\">              Japansk te                                                                                 30:- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">               Press kaffe                                                                                 30:-&nbsp;</span></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_anchor": "content6-16"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": true,
+            "spacing": 0,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc9010-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc9010-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc8938-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc8938-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc8976-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc8976-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc9050-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc9050-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc9064-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc9064-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc8843-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc8843-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc9023-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc9023-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc8854-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc8854-2000x1334-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "allItem": "All",
+          "_name": "gallery2",
+          "_anchor": "gallery2-18"
+        },
+        {
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-17"
         },
         {
           "_tags": [
