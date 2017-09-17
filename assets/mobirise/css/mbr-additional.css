@@ -476,10 +476,17 @@ h6,
 #msg-box8-k p {
   color: #fff;
 }
-#msg-box5-i P {
-  text-align: left;
-  font-size: 17px;
+#header3-n .mbr-section-title,
+#header3-n .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box5-i H3 {
-  text-align: left;
+#msg-box1-s H3 {
+  color: #ffffff;
+}
+#msg-box1-11 H3 {
+  color: #ffffff;
+}
+#header3-t .mbr-section-title,
+#header3-t .mbr-section-subtitle {
+  text-align: center;
 }
