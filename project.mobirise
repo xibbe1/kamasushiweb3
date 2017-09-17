@@ -20,10 +20,12 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#232323"
+      ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 45,
+    "uniqCompNum": 46,
     "versionPublish": "4.3.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -220,7 +222,7 @@
           },
           "title": "BOKA BORD",
           "text": "Kama Sushi Storgatan",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Gå till bokning</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#form1-19\" data-toolbar=\"-mbrBtnMove\">Gå till bokning</a>",
           "_tags": [
             "Theme"
           ],
@@ -475,6 +477,63 @@
           "allItem": "All",
           "_name": "gallery2",
           "_anchor": "gallery2-18"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
+            "labelsColor": "#232323",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "BOKA BORD",
+          "subtitle": "Kama Sushi Storgatan",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Boka bord</a>",
+          "form": {
+            "action": "kamasushi@outlook.com",
+            "alerts": {
+              "success": "Tack, vi återkommer inom kort."
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Namn*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Telefon"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Meddelande"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-19",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          }
         },
         {
           "_params": {
