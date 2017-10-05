@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 46,
+    "uniqCompNum": 47,
     "versionPublish": "4.3.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -549,11 +549,6 @@
           "_anchor": "content1-17"
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts2",
-          "_anchor": "contacts2-j",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -572,8 +567,13 @@
               "stateDetails": ""
             }
           },
-          "text1": "<strong>Address</strong><br>Västra Sjögatan 13<br>392 32 Kalmar<br><br><br>\n<strong>Kontakta oss</strong><br>\nEmail: kamasushi@outlook.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Länkar</b></span></font><br><ul><li>Facebook</li><br></ul>"
+          "text1": "<b>Take Away</b><br>Västra Sjögatan 13<br>Kalmar<br>0480-548 78<br><br><b>Restaurang</b><br>Storgatan 22\n<br>Kalmar\n<br>0480-100 26<br><br>Email: kamasushi@outlook.com<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><ul><br></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-1a"
         }
       ]
     }
