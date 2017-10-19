@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 55,
+    "uniqCompNum": 60,
     "versionPublish": "4.3.0",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -128,161 +128,42 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb1/\">TAKE AWAY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1a\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-k",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "paddingTop": "5",
-            "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc8854-2000x1334.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "KAMA SUSHI",
-          "text": "<p><span style=\"font-size: 1.07rem;\">Den nyöppnade restaurangen på Storgatan i hjärtat av Kalmar har en asiatisk inriktning. Så det erbjuds väl valda maträtter från exempelvis det vietnamesiska till det Japanska köket. Eller varför inte dricka asiatiska teer eller väl valda viner eller öl från hela det gastronomiska breda och rika utbudet. Det är även möjligt att hämta mat för att äta den hemma.</span><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
-          "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "title": "MENY",
-          "meta": "Kama Sushi Storgatan",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-n"
-        },
-        {
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><span style=\"font-size: 1.07rem;\"><b><br></b></span></p><p><span style=\"font-size: 1.07rem;\"><b>First</b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Goma wakame sallad&nbsp;<b>25:-                  </b></span></p><p><span style=\"font-size: 1.07rem;\">Sjögrässallad</span><br></p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </p><p>Ika sansai <b>35:-</b> </p><p>                     Bläckﬁsksallad </p><p><br></p><p>                  Tuna Sallad <b>40:-</b> </p><p>                      Tonﬁsksallad</p><p><br></p><p><br></p><p><b>Full-Size</b></p><p><br></p><p>\n</p><p></p><p>\nHai san <b>230:-\n</b></p><p>Skaldjurs wok med säsongens grönsaker och söt basilika\n</p><p><br></p><p></p><p>\nEntrecote med black pepper <b>260:-\n</b></p><p>Wokad entrecotetärningar med säsongens grönsaker\n</p><p><br></p><p></p><p>\nMixed tempura <b>240:-\n</b></p><p>Friterad räkor och pilgrimsmusslor med chilimajonäs och klassisk riven rättikasås &nbsp;&nbsp;</p>",
-          "text2": "<p><b><br></b></p><p><b>Share food</b></p><p><br></p><p>Jiaozi&nbsp;<span style=\"font-size: 1.07rem;\"><b>55:- </b></span></p><p><span style=\"font-size: 1.07rem;\">                                     K</span><span style=\"font-size: 1.07rem;\">inesiska degknyten med kyckling </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">             Dim sum <b>55:- </b></span></p><p><span style=\"font-size: 1.07rem;\">             K</span><span style=\"font-size: 1.07rem;\">inesiska ångkokta  degknyten med räkor      </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Vårrullar <b>70:- </b></span></p><p><span style=\"font-size: 1.07rem;\">                  Klassiska vårrullar med nötfärs och grönsaker </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">             Goi Cuon</span><span style=\"font-size: 1.07rem;\">&nbsp;<b>70:- </b></span></p><p><span style=\"font-size: 1.07rem;\">                               Vietnamesiska färska vårrullar fyllda med räkor, risnudlar, mango,                        myntablad och bladsallad</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">             Goi tom <b>95:- </b></span></p><p><span style=\"font-size: 1.07rem;\">                                  Vietnamesisk räksallad med mango och glasnudlar </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">         Bun cha gio <b>105:- </b></span></p><p><span style=\"font-size: 1.07rem;\">                    Vietnamesiska vårrullar med risnudlar</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">                  Sashimi Moriawase&nbsp;<b>120:- </b>                             </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Lax sashimi &nbsp;<b>100 :- </b></span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">                                        Tako sallad <b>95:-</b> </span></p><p><span style=\"font-size: 1.07rem;\">                  Bläckﬁsksallad med, avokado, tomater, yuzu och wasabidressing&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p>",
-          "text3": "<p><b><br></b></p><p><b>Maki Sushi </b>(6 bitar) \n</p><p>\n</p><p><b><br></b></p><p>Tempura maki <b>85:-\n</b></p><p>Räkor och avokado \n</p><p><b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\n</b></p><p>Spicy tuna maki <b>100:-\n</b></p><p>Tonﬁsk, gurka, avokado och chilimajonäs</p><p><br></p><p><b>\n</b></p><p>Futomaki <b>100:-\n</b></p><p>Räkor, lax, avokado, gurka, rom</p><p><br></p><p>\n</p><p><b>\n</b></p><p>Yakiniku maki <b>100:-\n</b></p><p>Nötkött, gurka, pepparsås</p><p><b><br></b></p><p><b>\n</b></p><p><b>\n</b></p><p>Spider roll <b>105:-\n</b></p><p>Glaskrabba, avokado, gurka&nbsp;</p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-o"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/ybhlmcn565oqh27/Meny%20Storgatan.pdf?dl=1\">MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb1/\">TAKE AWAY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1a\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "showArrow": true,
+            "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/-dsc8854-2000x1334.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.8"
           },
-          "title": "BOKA BORD",
-          "text": "Kama Sushi Storgatan",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#form1-19\" data-toolbar=\"-mbrBtnMove\">Gå till bokning</a>",
+          "title": "Kama Sushi",
+          "text": "Den nyöppnade restaurangen på Storgatan i hjärtat av Kalmar har en asiatisk inriktning. Så det erbjuds väl valda maträtter från exempelvis det vietnamesiska till det Japanska köket. Eller varför inte dricka asiatiska teer eller väl valda viner eller öl från hela det gastronomiska breda och rika utbudet. Det är även möjligt att hämta mat för att äta den hemma.&nbsp;<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.dropbox.com/s/ybhlmcn565oqh27/Meny%20Storgatan.pdf?dl=1\" data-toolbar=\"-mbrBtnMove\">Meny</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-s",
+          "_name": "header1",
+          "_anchor": "header1-1n",
           "_styles": {
-            "H3": {
-              "color": "#ffffff"
+            ".mbr-section-lead": {
+              "text-align": "center",
+              "font-size": "23px"
             }
           }
-        },
-        {
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>Sushi moriawase \n</b></p><p><b>&nbsp;\n</b></p><p><span style=\"font-size: 1.07rem;\">8 bitar</span><b style=\"font-size: 1.07rem;\">                                                                                         105:-</b></p><p><b style=\"font-size: 1.07rem;\"> </b></p><p><span style=\"font-size: 1.07rem;\">  </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">10 bitar</span><b style=\"font-size: 1.07rem;\">                                                                             125:- </b></p><p><span style=\"font-size: 1.07rem;\">  </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">12 bitar</span><b style=\"font-size: 1.07rem;\">                                                                             135:- </b></p><p><span style=\"font-size: 1.07rem;\">  </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">16 bitar</span><b style=\"font-size: 1.07rem;\">                                                                                        175:- </b></p><p><span style=\"font-size: 1.07rem;\">  </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Sushi combo</span><b style=\"font-size: 1.07rem;\">                                                                            200:- </b></p><p><span style=\"font-size: 1.07rem;\"> </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">8 bitar lax</span><b style=\"font-size: 1.07rem;\">                                                                           110:- </b></p><p><span style=\"font-size: 1.07rem;\">              </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">10 bitar</span><b style=\"font-size: 1.07rem;\">                                                                               140:-</b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p><p><b style=\"font-size: 1.07rem;\"><br></b></p>",
-          "text2": "<p><span style=\"font-size: 1.07rem;\"><b>Sött&nbsp;</b></span><br></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">Che dau do <b>85:-</b> </span></p><p><span style=\"font-size: 1.07rem;\">Röda bönor och ångkokt banan med tapiokapärlor och teglass </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">   Friterad banan med glass <b>75:- </b></span></p><p><br></p><p><span style=\"font-size: 1.07rem;\">Husets sorbet                                                                     <b>60:-&nbsp;</b></span><br></p>",
-          "text3": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content7",
-          "_anchor": "content7-x"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc8938-2000x1334.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Väl valda viner från hela det gastronomiskt breda utbudet.&nbsp;",
-          "text": "Kama Sushi Storgatan",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Gå till bokning</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box1-11"
         },
         {
           "_styles": {
@@ -291,89 +172,26 @@
             }
           },
           "_params": {
-            "showMeta": true,
-            "paddingTop": "2",
-            "paddingBottom": 1,
+            "showMeta": false,
+            "paddingTop": "4",
+            "paddingBottom": "1",
             "bgColor": "#fff"
           },
-          "title": "Dryck<br>",
-          "meta": "Kama Sushi Storgatan",
+          "title": "Galleri",
+          "meta": "By John Smith posted July 20, 2016",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
-          "_anchor": "header3-t"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>Husets röda\n</b></p><p>Glas 75:- Flaska 280:-</p><p><br></p><p> \n</p><p>\n</p><p><b>Sileni Estate, Pinot Noir 2015 \n</b></p><p>Glas 115:-   Flaska 435:- \n</p><p>Hawkes Bay Nya Zeeland \n</p><p>Bärig och ungdomlig doft av jordgubbar, hallon, körsbär, örter, kanel och ingefära. Smaken är mjuk och lätt och med bra syra och ﬁnt inlindade tanniner.</p><p><br></p><p> \n</p><p>\n</p><p><b>Backhouse Wine, Pinot Noir 2015 \n</b></p><p>Flaska 408:- \n</p><p>Kalifornien USA</p><p> Fräscht kryddig pinot noir-doft med inslag av röda bär och lite ek. Smaken är lätt och saftig med toner av röda bär, lite kola örter. Mjuk och generös i en publik stil. \n</p><p>\n</p><p><b><br></b></p><p><b>Bodega Chacra, Barda Pinot Noir 2012\n</b></p><p>Flaska 717:- \n</p><p>Patagonia Argentina</p><p> Doften är ren och utvecklad med toner av hallon, jordgubbar, plommon, choklad och lite läder. Smaken är elegant och krämig med inlindade tanniner och saftig frukt och örtiga toner. Pigg syra och lång eftersmak. \n</p><p>\n</p><p><b><br></b></p><p><b>Majella, The Musician 2013 \n</b></p><p>Flaska 550:-\n</p><p>Coonawarra Australien</p><p> Vinet är välbalanserat i en fyllig stil med doft av mogna mörka bär, plommon, choklad, söta kryddor, örter och vaniljtoner från faten. Fyllig, tät smak med en lång och fruktdrivan eftersmak. Passar bra till lite kraftigare kötträtter. \n</p><p>\n</p><p><b><br></b></p><p><b>Avalon, Cabernet Sauvignon 2013</b> \n</p><p>Flaska 480:- \n</p><p>Kalifornien USA </p><p>Smaken går mot det fylliga hållet och bjuder på solmogen frukt i form av mörka bär som svarta vinbär men även jordgubbar och hallon allt i en lite kryddig stil. Vinet har ﬁn balans mellan syra, fat och frukt. \n</p><p>\n</p><p><b><br></b></p><p><b>Tenuta Michele Reverdito, Barolo La Morra 2013 \n</b></p><p>Flaska 750:- \n</p><p>Piemonte Italien </p><p>Doften är stor och fruktig med inslag av röda bär, rosor, körsbär, plommon, hallon och torkad frukt. Smaken är fyllig och bärig med tydliga tanniner, frisk fruktsyra och med en imponerande längd. \n</p><p>\n</p><p><b><br></b></p><p><b>Glas Flaska Bodegas Anima Negra, AN/2 2015\n</b></p><p>Flaska 690:- \n</p><p>Mallorca Spanien </p><p>Stor doft med inslag av röda bär, kanel, rosor och hallon. Smaken är fyllig med markerade tanniner och balanserade syror och toner av körsbär och kryddor.&nbsp;</p><p><br></p>",
-          "text2": "<p><b>Husets vitt </b></p><p>Glas 75:- &nbsp;Flaska 280:- </p><p><br></p><p><b>   Dr. Burkling Wolf, Riesling 2015&nbsp;</b></p><p>Flaska 530:- </p><p>   Pfalz Tyskland </p><p>   Nyanserad och druvtypisk doft av citrus, persika,      mineral, päron, äpplen och vita blommor.     Smaken är torr med en uppfriskande syra och       ett långt och läskande avslut. </p><p><br></p><p><b>  Eschbach-Dornstetter, Riesling Reserve 2015</b></p><p>Flaska 462:-</p><p>          Alsace Frankrike </p><p>   Ung och fruktig doft med toner av päron, honungsmelon,     persika och citron. Mycket frisk och läcker smak med     ungdomlig fruktighet och lite blommig eftersmak.</p><p><br></p><p><b>    Sauvignon Blanc EQ Coastal 2015 </b></p><p>Glas 100:- &nbsp;Flaska 387:- </p><p>                           Chile, Casablanca&nbsp;<span style=\"font-size: 1.07rem;\">Valley </span></p><p><span style=\"font-size: 1.07rem;\">   Stor och harmonisk doft med toner av citrus, lime,     färska örter, nässlor, mineral och exotisk frukt. Odlas ekologiskt.</span></p><p><br></p><p><b>  Jean Daneel, Signature Sauvignon Blanc 2015</b></p><p>Flaska 450:- </p><p>   Western Cape Sydafrika </p><p> Doften är stor aromatisk och läcker med toner av    krusbär, ﬂäder, gräs, krita och örter. Smaken är torr och    frisk med en lite krämigare textur och ett läskande avslut. </p><p><br></p><p><b> Secret Cellars, Chardonnay 2014                           </b></p><p>Flaska 550:- </p><p>  USA, Monterey County </p><p> Nyanserad och fräsch doft av citrus, äpplen, mineral och smör.    Smaken är medelfyllig till fyllig med inslag av citrus, mineral, smör och lite ek.</p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>Bouchard Pere et Fils, Monopole 2015</b></span></p><p><span style=\"font-size: 1.07rem;\">Glas 115:- &nbsp;Flaska 450:- </span></p><p><span style=\"font-size: 1.07rem;\">   Bourgogne Frankrike </span></p><p><span style=\"font-size: 1.07rem;\">  F</span><span style=\"font-size: 1.07rem;\">räsch och fruktig doft med inslag av gula äpplen,     persika, citrus och mineral. Smaken är torr, frisk och     medelfyllig med toner äpplen, persika, päron och     en fräsch citrussyra. Lång och fräsch avslutning.</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b>  Chablis La Pierrelee 2014</b></span></p><p><span style=\"font-size: 1.07rem;\">Flaska 600:- </span></p><p><span style=\"font-size: 1.07rem;\">   Chablis, Frankrike </span></p><p><span style=\"font-size: 1.07rem;\">  Fräsch och fruktig doft med toner av gröna äpplen, stenfrukt,     citron och mineral. Smaken är torr och frisk med     eleganta nyanser och läskande avslutning.&nbsp;</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-z"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "inverse": false,
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc8843-2000x1334.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "Väl valda viner från hela det gastronomiskt breda utbudet.&nbsp;",
-          "text": "Kama Sushi Storgatan",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Gå till bokning</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_styles": {
-            "H3": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "msg-box1-13"
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": "2",
-            "bgColor": "#fff"
-          },
-          "text1": "<p><b>\n</b></p><p><b><br></b><b style=\"font-size: 1.07rem;\"><i>Rose&nbsp;</i></b></p><p><b>\n</b></p><p><b><br></b></p><p><b>Domaine Lafage, Miraﬂors Rosé 2016 \n</b></p><p><span style=\"font-size: 1.07rem;\">Flaska 510:-</span><br></p><p>Cotes du Roussillon, Frankrike\n</p><p>Ung, pigg, fruktig och örtig doft av hallon, jordgubbar, röda vinbär och lite citrus. Smaken är lätt och frisk med en fräsch aromatik och läcker eftersmak.\n</p><p><b>\n</b></p><p><b><i><br></i></b></p><p><b><i>Mousserande och Champagne</i></b></p><p><b><i><br></i></b></p><p><b><i>\n</i></b></p><p><b>\n</b></p><p><b>Bodegas Sojosa, Nitus Cava Brut Reserve \n</b></p><p>Flaska  320:- \n</p><p>Penèdes Spanien\n</p><p>Doften är ren och fruktig med inslag av citrus och mineral. Smaken är torr och fruktig med krämig mousse och inslag av citrusfrukter, äpple och bröd. \n</p><p><b>\n</b></p><p><b><br></b></p><p><b>UPR Champagne Le Mesnil Grand Cru Blanc de Blancs\n</b></p><p>Flaska 990:-\n</p><p>Champagne, Frankrike \n</p><p>Doft av rostat bröd, citrus och mjölkchoklad. Lätt till medelfyllig mycket frisk smak av citrus, smör, rostat bröd, mjölkchoklad och lite svamp. Lång fräsch avslutning.</p><p><br></p><p> \n</p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b>\n</b></p><p><b><i>Alkohol fri</i> </b></p><p> Hwila                                                                                         28:- </p><p><br></p><p>  Läsk                                                                                          28:- </p><p><br></p><p>  Lättöl, ( alkohol fri)                                                                       28 :-</p><p><br></p><p>  Mjölk                                                                                          25:- </p><p><br></p><p>  Alkohol fri vin                                                                     52:-/glas<b>&nbsp;</b></p>",
-          "text2": "<p><b><br></b></p><p><b><i>Kaffe drink</i></b></p><p><span style=\"font-size: 1.07rem;\">Irish coffee </span><b style=\"font-size: 1.07rem;\">&nbsp;&nbsp;</b><span style=\"font-size: 1.07rem;\">105:-</span><br></p><p><b>\n</b></p><p><b><br></b></p><p><b><i>Whisky</i></b></p><p>The Deveron 12 år &nbsp;<b>&nbsp;</b><span style=\"font-size: 1.07rem;\">21:-/cl</span></p><p><b><br></b></p><p>Laphroaig 10år &nbsp;<span style=\"font-size: 1.07rem;\">25:-/cl</span></p><p><br></p><p>Nikka &nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">33:-/ cl</span></p><p><br></p><p> \n</p><p><b><i>Cognac</i></b></p><p><b> </b></p><p>Bache Gabrielsen &nbsp; &nbsp;&nbsp;<span style=\"font-size: 1.07rem;\">20:-/cl </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">   Remy Martin VSOP &nbsp; 35:-/cl&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b><i>Öl</i></b> </span></p><p><span style=\"font-size: 1.07rem;\">  Brygmästaren, 50cl                                                                  67.- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Ängöl, 50cl                                                                                85.- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Ängöl, 33cl                                                                                78.- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Singha, 33cl                                                                              50:- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Asahi, 33cl                                                                                50:- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">  Cider, 33cl                                                                                 48:-&nbsp;</span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\"><b><i>Kaffe och Te</i></b> </span></p><p><span style=\"font-size: 1.07rem;\">              Japansk te                                                                                 30:- </span></p><p><span style=\"font-size: 1.07rem;\"><br></span></p><p><span style=\"font-size: 1.07rem;\">               Press kaffe                                                                                 30:-&nbsp;</span></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content6",
-          "_anchor": "content6-16"
+          "_anchor": "header3-1j"
         },
         {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
-            "fullWidth": true,
+            "fullWidth": false,
             "spacing": 0,
-            "paddingTop": 4,
+            "paddingTop": "1",
             "paddingBottom": 4,
             "filterBgColor": false,
             "bgColor": "fff",

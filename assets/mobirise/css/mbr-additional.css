@@ -472,26 +472,13 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#msg-box8-k .mbr-section-title,
-#msg-box8-k p {
-  color: #fff;
-}
-#header3-n .mbr-section-title,
-#header3-n .mbr-section-subtitle {
+#header1-1n .mbr-section-lead {
   text-align: center;
+  font-size: 23px;
 }
-#msg-box1-s H3 {
-  color: #ffffff;
-}
-#msg-box1-11 H3 {
-  color: #ffffff;
-}
-#header3-t .mbr-section-title,
-#header3-t .mbr-section-subtitle {
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
   text-align: center;
-}
-#msg-box1-13 H3 {
-  color: #ffffff;
 }
 #form1-19 .form-control-label {
   color: #232323;
