@@ -129,7 +129,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/scl/fi/fge4xwyxl5kbgjc8ynbfi/Meny Storgatan.pdf?dl=1\" target=\"_blank\">LADDA NER MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb1/\">TAKE AWAY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1a\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=1NCIQHRIZyRBLrXfQWWAHYEh9VyClvOJy\" target=\"_blank\">LADDA NER MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb1/\">TAKE AWAY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1a\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_params": {
@@ -153,7 +153,7 @@
           },
           "title": "Kama Sushi",
           "text": "Den nyöppnade restaurangen på Storgatan i hjärtat av Kalmar har en asiatisk inriktning. Så det erbjuds väl valda maträtter från exempelvis det vietnamesiska till det Japanska köket. Eller varför inte dricka asiatiska teer eller väl valda viner eller öl från hela det gastronomiska breda och rika utbudet. Det är även möjligt att hämta mat för att äta den hemma.&nbsp;<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.dropbox.com/scl/fi/fge4xwyxl5kbgjc8ynbfi/Meny Storgatan.pdf?dl=1\" data-toolbar=\"-mbrBtnMove\">Ladda ner PDF-meny</a>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=1NCIQHRIZyRBLrXfQWWAHYEh9VyClvOJy\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ladda ner PDF-meny</a>",
           "_tags": [
             "Theme"
           ],
