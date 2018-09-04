@@ -476,10 +476,23 @@ h6,
   text-align: center;
   font-size: 23px;
 }
+#msg-box4-1p H3 {
+  color: #ffffff;
+}
+#msg-box4-1p P {
+  color: #ffffff;
+  font-size: 23px;
+}
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
   text-align: center;
 }
 #form1-19 .form-control-label {
   color: #232323;
+}
+#contacts2-1a UL {
+  font-size: 14px;
+}
+#contacts2-1a SPAN {
+  color: #ffffff;
 }

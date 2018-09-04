@@ -25,7 +25,7 @@
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 62,
     "versionPublish": "4.8.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -139,7 +139,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc8854-2000x1334.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-dsc2930-640x427.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -167,6 +167,68 @@
           }
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "44",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#101010",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/-dsc3006-400x600.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">Öppettider&nbsp;</span>",
+          "text": "<p>Mån-Fre &nbsp; &nbsp; &nbsp; 11.00-15.00 \n<br>Mån-Fre &nbsp; &nbsp; &nbsp;17.00-22.00 \n<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.00-22.00 \n<br>Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Stängt<br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "23px"
+            }
+          },
+          "_anchor": "msg-box4-1p"
+        },
+        {
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
@@ -174,8 +236,8 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "4",
-            "paddingBottom": "1",
+            "paddingTop": "5",
+            "paddingBottom": "3",
             "bgColor": "#fff"
           },
           "title": "Galleri",
@@ -204,88 +266,144 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc9010-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc9010-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2761-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2761-640x427-640x427.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc8938-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc8938-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2773-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2773-640x427-640x427.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc8976-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc8976-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2807-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2807-640x427-640x427.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc9050-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc9050-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2820-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2820-640x427-640x427.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc9064-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc9064-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2921-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2921-640x427-640x427.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc8843-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc8843-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc3011-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc3011-640x427-640x427.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc9023-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc9023-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc3022-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc3022-640x427-640x427.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc8854-2000x1334.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc8854-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-dsc3039-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc3039-640x427-640x427.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2925-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2925-640x427-640x427.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2930-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2930-640x427-640x427.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2986-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2986-640x427-640x427.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false,
+                "title": ""
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-dsc2996-640x427.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dsc2996-640x427-640x427.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true,
+                "title": ""
               }
             ]
           },
@@ -386,13 +504,21 @@
               "stateDetails": ""
             }
           },
-          "text1": "<b>Take Away</b><br>Västra Sjögatan 13<br>Kalmar<br>0480-548 78<br><br><b>Restaurang</b><br>Storgatan 22\n<br>Kalmar\n<br>0480-100 26<br><br>Email: kamasushi@outlook.com<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b><br></b></span></font><ul><br></ul>",
+          "text1": "<b>Take Away</b><br>Västra Sjögatan 13<br>Kalmar<br>0480-548 78<br><br><b>Restaurang</b><br>Storgatan 22\n<br>Kalmar\n<br>0480-100 26<br><br><br>Email: kamasushi@outlook.com<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Öppettider&nbsp;</b></span></font><ul><p>Västra Sjögatan 13\n</p><p>Mån-Fre 11.00-20.30\n</p></ul><ul>Lör         12.00-20.30\n</ul><ul><p>Sön.      13.00-20.30</p><p><br></p><p><span style=\"font-size: 0.875rem;\">Storgatan 22</span></p><p>Mån-Fre   11.00-15\n.00</p><p>Mån-Fre   17.00-22\n.00</p><p>Lör            12.00-22.00</p></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1a"
+          "_anchor": "contacts2-1a",
+          "_styles": {
+            "UL": {
+              "font-size": "14px"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
