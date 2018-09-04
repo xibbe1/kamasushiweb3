@@ -211,7 +211,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Öppettider&nbsp;</span>",
-          "text": "<p>Mån-Fre &nbsp; &nbsp; &nbsp; 11.00-15.00 \n<br>Mån-Fre &nbsp; &nbsp; &nbsp;17.00-22.00 \n<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.00-22.00 \n<br>&nbsp; Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Stängt</p><p><br></p>",
+          "text": "<p>Mån-Fre &nbsp; &nbsp; &nbsp; 11.00-15.00<br>Mån-Fre &nbsp; &nbsp; &nbsp;17.00-22.00<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.00-22.00<br>Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Stängt</p>",
           "_tags": [
             "Theme"
           ],
@@ -219,11 +219,13 @@
           "_name": "msg-box4",
           "_styles": {
             "H3": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left"
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "23px"
+              "font-size": "23px",
+              "text-align": "left"
             }
           },
           "_anchor": "msg-box4-1p"

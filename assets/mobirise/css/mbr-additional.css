@@ -478,10 +478,12 @@ h6,
 }
 #msg-box4-1p H3 {
   color: #ffffff;
+  text-align: left;
 }
 #msg-box4-1p P {
   color: #ffffff;
   font-size: 23px;
+  text-align: left;
 }
 #header3-1j .mbr-section-title,
 #header3-1j .mbr-section-subtitle {
