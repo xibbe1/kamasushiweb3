@@ -211,7 +211,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Öppettider&nbsp;</span>",
-          "text": "<p>Mån-Fre &nbsp; &nbsp; &nbsp; 11.00-15.00<br>Mån-Fre &nbsp; &nbsp; &nbsp;17.00-22.00<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.00-22.00<br>Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Stängt</p><br><p><i>Köket stänger en</i>&nbsp;<i>halvtimme&nbsp;tidigare&nbsp;än&nbsp;restaurangen</i><br></p>",
+          "text": "<p>Mån-Fre &nbsp; &nbsp; &nbsp; 11.00-15.00<br>Ons-Fre &nbsp; &nbsp; &nbsp;17.00-22.00<br>Lör &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 12.00-22.00<br>Sön &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Stängt</p><br><p><i>Köket stänger en</i>&nbsp;<i>halvtimme&nbsp;tidigare&nbsp;än&nbsp;restaurangen</i><br></p>",
           "_tags": [
             "Theme"
           ],
