@@ -472,25 +472,29 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header1-12 .mbr-section-lead {
+#header1-1n .mbr-section-lead {
   text-align: center;
   font-size: 23px;
 }
-#msg-box4-14 H3 {
+#msg-box4-1p H3 {
   color: #ffffff;
   text-align: left;
 }
-#msg-box4-14 P {
+#msg-box4-1p P {
   color: #ffffff;
-  font-size: 23px;
+  font-size: 17px;
   text-align: left;
 }
-#msg-box4-s H3 {
-  color: #ffffff;
+#header3-1j .mbr-section-title,
+#header3-1j .mbr-section-subtitle {
+  text-align: center;
 }
-#contacts2-15 UL {
+#form1-19 .form-control-label {
+  color: #232323;
+}
+#contacts2-1a UL {
   font-size: 14px;
 }
-#contacts2-15 SPAN {
+#contacts2-1a SPAN {
   color: #ffffff;
 }
