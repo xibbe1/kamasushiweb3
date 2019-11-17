@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Restu",
+    "name": "NewSite-07-14_2137",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -21,16 +21,15 @@
         "isRtl": false
       },
       "additionalSetColors": [
+        "#101010",
         "#232323"
       ]
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 62,
+    "uniqCompNum": 42,
     "versionPublish": "4.10.15",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": "",
     "siteFonts": []
   },
   "pages": {
@@ -129,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://drive.google.com/open?id=1NCIQHRIZyRBLrXfQWWAHYEh9VyClvOJy\" target=\"_blank\">LADDA NER MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header3-1j\">GALLERI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb1/\">TAKE AWAY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-1a\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.dropbox.com/s/golefea94jloz9i/Take%20away%20meny.pdf?dl=1\">LADDA NER MENY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box4-s\">GALLERI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://xibbe1.github.io/kamasushiweb3/\">RESTAURANG</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-j\">KONTAKTA OSS</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
           "_params": {
@@ -139,7 +138,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-dsc2930-640x427.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc2930-640x427.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#a07e49",
@@ -152,19 +151,19 @@
             "overlayOpacity": "0.8"
           },
           "title": "Kama Sushi",
-          "text": "Den nyöppnade restaurangen på Storgatan i hjärtat av Kalmar har en asiatisk inriktning. Så det erbjuds väl valda maträtter från exempelvis det vietnamesiska till det Japanska köket. Eller varför inte dricka asiatiska teer eller väl valda viner eller öl från hela det gastronomiska breda och rika utbudet. Det är även möjligt att hämta mat för att äta den hemma.&nbsp;<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=1NCIQHRIZyRBLrXfQWWAHYEh9VyClvOJy\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Ladda ner PDF-meny</a>",
+          "text": "Kama Sushi erbjuder traditionell restaurang såväl som take away för sina kunder mitt i hjärtat av Kalmar vid Stortorget. Restaurangen är en renodlad sushirestaurang i japansk miljö som har funnits sedan år 2006. Maten är alltid baserad på de bästa råvarorna på den svenska råvarumarknaden och gästerna kommer från hela Sverige.<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.dropbox.com/s/golefea94jloz9i/Take%20away%20meny.pdf?dl=1\" data-toolbar=\"-mbrBtnMove\">Ladda ner PDF-meny</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-1n",
           "_styles": {
             ".mbr-section-lead": {
               "text-align": "center",
               "font-size": "23px"
             }
-          }
+          },
+          "_anchor": "header1-12"
         },
         {
           "_inherit": "msg-box5",
@@ -192,7 +191,7 @@
           "media": {
             "image": {
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-dsc3006-400x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/dsc3006-400x600.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -211,7 +210,7 @@
             }
           },
           "title": "<span style=\"font-weight: normal;\">Öppettider&nbsp;</span>",
-          "text": "<p>Mån-fre kl 11:00 - 14:30\n<br>Tor-fre kl 17:00 - 22:00\n<br>Lör kl 12:00 - 22:00<br></p><br><p><i>Köket stänger en</i>&nbsp;<i>halvtimme&nbsp;tidigare&nbsp;än&nbsp;restaurangen</i><br></p>",
+          "text": "<p>Stängt för renovering</p>",
           "_tags": [
             "Theme"
           ],
@@ -224,40 +223,177 @@
             },
             "P": {
               "color": "#ffffff",
-              "font-size": "17px",
+              "font-size": "23px",
               "text-align": "left"
             }
           },
-          "_anchor": "msg-box4-1p"
+          "_anchor": "msg-box4-14"
         },
         {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            }
-          },
           "_params": {
-            "showMeta": false,
-            "paddingTop": "5",
-            "paddingBottom": "3",
-            "bgColor": "#fff"
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": false,
+            "showBio": false,
+            "count": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.2
           },
-          "title": "Galleri",
-          "meta": "By John Smith posted July 20, 2016",
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "testimonial": [
+            {
+              "authorName": "Kama Sushi",
+              "authorBio": "User",
+              "text": "<p>\n</p><div><span style=\"font-size: 1.125rem;\">Lunch</span><br></div><div>Serveras mån-fre kl 11-15.\n</div><div>I lunchen ingår: misosoppa, japanskt te samt vatten.\n</div><div>\n</div><div>Priser för menyval 1-7.\n</div><div>\n</div><div>Liten (8 bitar) 80 kr\n</div><div>Mellan (10 bitar) 95 kr\n</div><div>Stor (12 bitar) 105 kr\n</div><div>8- Lax (8 bitar) 100 kr\n</div><div>9- Räkor eller Lax &amp; räkor (8 bitar) 100 kr</div>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/kama-88x87.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": ""
+                }
+              }
+            }
+          ],
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-1j"
+          "_name": "testimonials2",
+          "_anchor": "testimonials2-11"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#101010",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sashimi-1400x934.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Sashimi",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-s",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "45",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sjgrssallad-1400x933.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Sjögrässallad",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-t"
         },
         {
           "_inherit": "gallery1",
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": 0,
+            "spacing": "0",
             "paddingTop": "1",
-            "paddingBottom": 4,
+            "paddingBottom": "0",
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": false,
@@ -268,144 +404,88 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2761-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2761-640x427-640x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1334-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2773-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2773-640x427-640x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2-2000x1334-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2807-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2807-640x427-640x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1334-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2820-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2820-640x427-640x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2921-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2921-640x427-640x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1333-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc3011-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc3011-640x427-640x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6-2000x1334-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/7-2000x1333.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/7-2000x1333-800x533.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc3022-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc3022-640x427-640x427.jpg",
+                "image": "@PROJECT_PATH@/assets/images/8-2000x1334.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/8-2000x1334-800x533.jpg",
                 "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc3039-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc3039-640x427-640x427.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2925-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2925-640x427-640x427.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2930-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2930-640x427-640x427.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2986-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2986-640x427-640x427.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": false,
-                "title": ""
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/-dsc2996-640x427.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dsc2996-640x427-640x427.jpg",
-                "alt": "",
-                "caption": "Type caption here",
-                "active": true,
-                "title": ""
+                "active": true
               }
             ]
           },
@@ -415,77 +495,7 @@
           "articleLayout": false,
           "allItem": "All",
           "_name": "gallery2",
-          "_anchor": "gallery2-18"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubTitle": true,
-            "labelsColor": "#232323",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "BOKA BORD",
-          "subtitle": "Kama Sushi Storgatan",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Boka bord</a>",
-          "form": {
-            "action": "kamasushi@outlook.com",
-            "alerts": {
-              "success": "Tack, vi återkommer inom kort."
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Namn*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Telefon"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Meddelande"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-19",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": "7",
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-17"
+          "_anchor": "gallery2-n"
         },
         {
           "_params": {
@@ -507,12 +517,11 @@
             }
           },
           "text1": "<b>Take Away</b><br>Västra Sjögatan 13<br>Kalmar<br>0480-548 78<br><br><b>Restaurang</b><br>Storgatan 22\n<br>Kalmar\n<br>0480-100 26<br><br><br>Email: kamasushi@outlook.com<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Öppettider&nbsp;</b></span></font><ul><p>Västra Sjögatan 13\n</p><p>Mån-Fre 11.00-20.30\n</p></ul><ul>Lör         12.00-20.30\n</ul><ul><p>Sön.      13.00-20.30</p><p><br></p><p><span style=\"font-size: 0.875rem;\">Storgatan 22</span></p><p>Mån-fre kl 11:00 - 14:30\r</p><p>Tor-fre kl 17:00 - 22:00\r</p><p>Lör kl 12:00 - 22:00</p></ul>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Öppettider&nbsp;</b></span></font><ul><p>Västra Sjögatan 13\n</p><p>Mån-Fre 11.00-20.30\n</p></ul><ul>Lör         12.00-20.30\n</ul><ul><p>Sön.      13.00-20.30</p><p><br></p><p><span style=\"font-size: 0.875rem;\">Storgatan 22</span></p><p>Mån-Fre   11.00-15\n.00</p><p>Mån-Fre   17.00-22\n.00</p><p>Lör            12.00-22.00</p></ul>",
           "_tags": [
             "Theme"
           ],
           "_name": "contacts2",
-          "_anchor": "contacts2-1a",
           "_styles": {
             "UL": {
               "font-size": "14px"
@@ -520,7 +529,8 @@
             "SPAN": {
               "color": "#ffffff"
             }
-          }
+          },
+          "_anchor": "contacts2-15"
         }
       ]
     }
